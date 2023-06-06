@@ -1,6 +1,5 @@
-👋 Hey there, I'm Jon!
-
 <div align="center">
+	👋 Hey there, I'm Jon!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 	<div id="badges">
 		<a href="https://linkedin.com/in/jonni-le">
