@@ -17,8 +17,7 @@
 	</h1>
 </div>
 
-- Hello! I'm Jon
-- I am a 42 school student at Hive
+Hello! I'm Jon. I am a 42 school student at Hive
 
 - 🔭 I’m currently working on ... 42 School project: Cub3D
 - 🌱 I’m currently learning ... C, C++
