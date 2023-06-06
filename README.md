@@ -19,7 +19,7 @@
 
 Hey there! 👋 Are you looking for a coding companion who's passionate, driven, and always up for a challenge? Look no further! Swipe right to learn more about me:
 
-🎓 Currently enrolled at 42 School, Helsinki, and set to graduate in February 2024.
+🎓 Currently enrolled at 42 School, Hive Helsinki, and set to graduate in February 2024.
 
 💻 Working on an exciting project called Cub3D. It's like love at first sight with 3D graphics!
 
