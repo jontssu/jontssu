@@ -17,10 +17,6 @@
 	</h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 - 🔭 I’m currently working on ... 42 School project: Cub3D
 - 🌱 I’m currently learning ... C, C++
 - 💬 Ask me about ... Anything!
