@@ -17,16 +17,16 @@
 	<h1>
 </div>
 
-Hey there! 👋 Are you looking for a coding companion who's passionate, driven, and always up for a challenge? Look no further! Swipe right to learn more about me:
+Hello there! Are you in search of a coding companion who's passionate, driven, and up for exciting challenges? Look no further! Take a moment to get to know me better:
 
-🎓 Currently enrolled at 42 School, Hive Helsinki, and set to graduate in February 2024.
+🎓 I'm currently enrolled at 42 School, Hive Helsinki, and I'm expected to graduate in February 2024.
 
-💻 Working on an exciting project called Cub3D. It's like love at first sight with 3D graphics!
+💻 My current focus revolves around an intriguing project called Cub3D, where I explore the captivating world of 3D graphics.
 
-📚 Constantly expanding my knowledge in C and C++. Let's build a strong connection together!
+📚 I'm constantly expanding my knowledge in C and C++, making them the foundation of my expertise. Let's build a strong connection together!
 
-💬 Open to discussing anything and everything! Share your thoughts, ideas, or even some cheesy coding jokes.
+💬 I'm always open to engaging in discussions about anything related to coding. Feel free to share your thoughts, ideas, or even some clever coding jokes.
 
-🌐 Reach me easily through the links above. Let's connect and explore this coding adventure together!
+🌐 You can easily reach out to me through the provided links. Let's connect and embark on an inspiring coding adventure together!
 
-Let's match and create a beautiful codebase filled with laughter, growth, and endless possibilities! ❤️🔥
+Let's collaborate and create a remarkable codebase filled with growth, laughter, and endless possibilities!
