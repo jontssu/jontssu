@@ -23,10 +23,8 @@ Hello there! Are you in search of a coding companion who's passionate, driven, a
 
 💻 My current focus revolves around an intriguing project called Cub3D, where I explore the captivating world of 3D graphics.
 
-📚 I'm constantly expanding my knowledge in C and C++, making them the foundation of my expertise. Let's build a strong connection together!
+📚 I'm constantly expanding my knowledge in C and C++, making them the foundation of my expertise.
 
 💬 I'm always open to engaging in discussions about anything related to coding. Feel free to share your thoughts, ideas, or even some clever coding jokes.
 
 🌐 You can easily reach out to me through the provided links. Let's connect and embark on an inspiring coding adventure together!
-
-Let's collaborate and create a remarkable codebase filled with growth, laughter, and endless possibilities!
