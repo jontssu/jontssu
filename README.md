@@ -23,6 +23,6 @@ Hello there! Are you in search of a coding companion who's passionate, driven, a
 
 💻 My current focus revolves around an intriguing project called Cub3D, where I explore the captivating world of 3D graphics.
 
-📚 I'm constantly expanding my knowledge in C and C++, making them the foundation of my expertise and later dipping my toes in TypeScript.
+📚 I'm constantly expanding my knowledge in C, C++ and TypeScript, making them the foundation of my expertise.
 
 🌐 You can easily reach out to me through the provided links!
