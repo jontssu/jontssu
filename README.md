@@ -25,6 +25,4 @@ Hello there! Are you in search of a coding companion who's passionate, driven, a
 
 📚 I'm constantly expanding my knowledge in C and C++, making them the foundation of my expertise.
 
-💬 I'm always open to engaging in discussions about anything related to coding. Feel free to share your thoughts, ideas, or even some clever coding jokes.
-
-🌐 You can easily reach out to me through the provided links. Let's connect and embark on an inspiring coding adventure together!
+🌐 You can easily reach out to me through the provided links. 
