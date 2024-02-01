@@ -19,9 +19,9 @@
 
 Hello there! Are you in search of a coding companion who's passionate, driven, and up for exciting challenges? Look no further! Take a moment to get to know me better:
 
-🎓 I'm currently enrolled at 42 School, Hive Helsinki, and I'm expected to graduate in February 2024.
+🎓 I'm currently enrolled at 42 School, Hive Helsinki, and I'm expected to graduate in Summer of 2024.
 
-💻 My current focus revolves around an intriguing project called Cub3D, where I explore the captivating world of 3D graphics.
+💻 My current focus revolves around an intriguing project called ft_irc, where I redevelop the functioning of an IRC server.
 
 📚 I'm constantly expanding my knowledge in C, C++ and TypeScript, making them the foundation of my expertise.
 
