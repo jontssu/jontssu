@@ -19,9 +19,9 @@
 
 Hello there! Are you in search of a coding companion who's passionate, driven, and up for exciting challenges? Look no further! Take a moment to get to know me better:
 
-🎓 I'm currently enrolled at 42 School, Hive Helsinki, and I'm expected to graduate in Summer of 2024.
+🎓 I'm currently enrolled at 42 School, Hive Helsinki, and have completed the core curriculum as of September 2024.
 
-💻 My current focus revolves around an intriguing project called ft_irc, where I reproduce the functioning of an IRC server.
+💻 My current focus revolves around learning different languages to further expand my knowledge.
 
 📚 I'm constantly expanding my knowledge in C, C++ and TypeScript, making them the foundation of my expertise.
 
